@@ -156,7 +156,7 @@ Fact table : It will have the data about the transactions
 - Following good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowflake data modeling method.
 
-<img src="https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Data_model.png" class="center">
 
 ### 🎨Dashboard designing
 
@@ -174,32 +174,23 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Support
 
-## 🌟Overall Report
-
-![Overall Report.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Overall.gif)
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Home.png" class="center">
 
 ## 💵Finance View
 
-![Finace.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Finance%20View.gif)
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Finance%20View.png" class="center">
 
 ## 🏷️Sales View
 
-![Sales.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Sales%20View.gif)
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Sales%20View.png" class="center">
 
 ## 🛒Marketing View
 
-![Marketing.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Marketing%20View.gif)
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Market%20View.png" class="center">
 
 ## 🚚Supply Chain View
 
-![Supply chain.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Supply%20Chain%20View.gif)
-
-## 👨🏻‍💼Executive View
-
-![Executive.gif](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Executive%20View.gif)
-
-🔗you can find the full report file here : [Report](https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Report/business_insights_360.pbix)
-
+<img src="https://github.com/Rajacharya1/Power-BI-360-Project/blob/main/Resources/Supply%20Chain%20View.png" class="center">
 
 ## 🎯Project Outcome
 
